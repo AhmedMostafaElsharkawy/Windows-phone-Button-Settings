@@ -1,0 +1,44 @@
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\ApplicationIcon.png
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\Background.png
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\WP7RootToolsSDK-License.txt
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\WP7RootToolsSDKNative-0.2.1.0.dll
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\WPInteropManifest.xml
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\Buttons Settings.dll
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\Buttons Settings.pdb
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\AppManifest.xaml
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\Buttons Settings.xap
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\CSharp - DllImport.dll
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\HtmlAgilityPack.dll
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\Krempel.WP7.Core.dll
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\WP7RootToolsSDK-0.2.1.0.dll
+D:\l505gs\win p 7.5 SDK\vibration setting\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\l505gs\win p 7.5 SDK\vibration setting\obj\Debug\App.g.cs
+D:\l505gs\win p 7.5 SDK\vibration setting\obj\Debug\MainPage.g.cs
+D:\l505gs\win p 7.5 SDK\vibration setting\obj\Debug\Buttons Settings.g.resources
+D:\l505gs\win p 7.5 SDK\vibration setting\obj\Debug\Buttons Settings.dll
+D:\l505gs\win p 7.5 SDK\vibration setting\obj\Debug\Buttons Settings.pdb
+D:\l505gs\win p 7.5 SDK\vibration setting\obj\Debug\XapCacheFile.xml
+D:\l505gs\win p 7.5 SDK\vibration setting\obj\Debug\Buttons Settings.csprojResolveAssemblyReference.cache
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\ApplicationIcon.png
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\Background.png
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\WP7RootToolsSDK-License.txt
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\WP7RootToolsSDKNative-0.2.1.0.dll
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\WPInteropManifest.xml
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\Buttons Settings.dll
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\Buttons Settings.pdb
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\AppManifest.xaml
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\Buttons Settings.xap
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\CSharp - DllImport.dll
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\HtmlAgilityPack.dll
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\Krempel.WP7.Core.dll
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\WP7RootToolsSDK-0.2.1.0.dll
+D:\l505gs\win p 7.5 SDK\Buttons Settings\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\l505gs\win p 7.5 SDK\Buttons Settings\obj\Debug\App.g.cs
+D:\l505gs\win p 7.5 SDK\Buttons Settings\obj\Debug\MainPage.g.cs
+D:\l505gs\win p 7.5 SDK\Buttons Settings\obj\Debug\sleep.g.cs
+D:\l505gs\win p 7.5 SDK\Buttons Settings\obj\Debug\Buttons Settings.g.resources
+D:\l505gs\win p 7.5 SDK\Buttons Settings\obj\Debug\Buttons Settings.dll
+D:\l505gs\win p 7.5 SDK\Buttons Settings\obj\Debug\Buttons Settings.pdb
+D:\l505gs\win p 7.5 SDK\Buttons Settings\obj\Debug\XapCacheFile.xml

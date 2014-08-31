@@ -1,0 +1,12 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Buttons Settings" EntryPointType="ButtonsSettings.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Buttons Settings" Source="Buttons Settings.dll" />
+    <AssemblyPart x:Name="CSharp - DllImport" Source="CSharp - DllImport.dll" />
+    <AssemblyPart x:Name="HtmlAgilityPack" Source="HtmlAgilityPack.dll" />
+    <AssemblyPart x:Name="Krempel.WP7.Core" Source="Krempel.WP7.Core.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="OneKeyScreenClose" Source="OneKeyScreenClose.dll" />
+    <AssemblyPart x:Name="WP7RootToolsSDK-0.2.1.0" Source="WP7RootToolsSDK-0.2.1.0.dll" />
+  </Deployment.Parts>
+</Deployment>
